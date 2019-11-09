@@ -74,7 +74,7 @@ while True:
     info += "<---------General--------->\n"
     info += "total to sell: " + str(round(tokenToSell, 1)) + " " + token + " \n" 
     info += "volume Btc: " + str(round(tokenVolBtc, 1)) + " Usd\n"
-    info += "volume Eth: " + str(round(tokenVolEth, 1)) + " Usd\n\n"
+    info += "volume Eth: " + str(round(tokenVolEth, 1)) + " Usd\n"
     info += "volume Usdt: " + str(round(tokenVolUsdt, 1)) + " Usd\n\n"
 
     info += "<---------BTC--------->\n"
